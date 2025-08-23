@@ -98,6 +98,8 @@ Também crie uma ação para o botão que fica encima da imagem que representa a
 
 ![Descrição da Imagem](Imagens/25.png)
 
+OBS: Quando for clicar nos botões para abrir e fechar o filtro lembre-se de apertar a tecla CRTL
+
 REFERÊNCIAS:
 
 Vídeo Explicativo:

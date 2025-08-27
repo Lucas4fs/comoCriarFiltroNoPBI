@@ -98,6 +98,10 @@ Também crie uma ação para o botão que fica encima da imagem que representa a
 
 ![Descrição da Imagem](Imagens/25.png)
 
+OBS: Sempre deixar os botões acima das imagens na hierarquia quando for criar os indicadores, é necessário seguir essa premissa para que os botões não fiquem bugados com as imagens
+
+![Descrição da Imagem](premissaBOTOES.png)
+
 OBS: Quando for clicar nos botões para abrir e fechar o filtro lembre-se de apertar a tecla CRTL
 
 REFERÊNCIAS:
